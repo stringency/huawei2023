@@ -1,0 +1,1 @@
+.\robot_gui.exe -c ".\out\production\huawei_codecraft2023" "java -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005 com.huawei.codecraft.Main -Xms64m -Xmx4g" -d  -m .\maps\5.txt

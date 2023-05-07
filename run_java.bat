@@ -1,0 +1,1 @@
+robot.exe -c ".\out\production\huawei_codecraft2023" "java com.huawei.codecraft.Main -Xms64m -Xmx4g" -f -m .\maps\8.txt
